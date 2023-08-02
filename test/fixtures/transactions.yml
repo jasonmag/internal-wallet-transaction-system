@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  transaction_type: MyString
+  amount: 9.99
+  source_wallet_id: 1
+  target_wallet_id: 1
+  model: one
+  model_type: Model
+
+two:
+  transaction_type: MyString
+  amount: 9.99
+  source_wallet_id: 1
+  target_wallet_id: 1
+  model: two
+  model_type: Model
